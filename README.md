@@ -37,5 +37,5 @@ architecture → API → UI → containerised deployment with CI/CD.
 I take freelance projects: web apps, dashboards, APIs, and deployments.
 
 - 📧 devqazi59@gmail.com
-- 💼 LinkedIn: _add link_
-- 🌐 Portfolio: _add link_
+- 💼 LinkedIn: https://www.linkedin.com/in/qaxixam
+_
