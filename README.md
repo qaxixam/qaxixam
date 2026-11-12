@@ -1,7 +1,9 @@
 # Hi, I'm Qazi Zaid 👋
 
 **Full-stack engineer who designs, builds and deploys scalable business systems.**
-Based in Pakistan · Freelancing since 2023 · BS Computer Science @ FATA University
+Based in Pakistan
+· Freelancing since 2023
+· BS Computer Science @ FATA University
 
 ---
 
